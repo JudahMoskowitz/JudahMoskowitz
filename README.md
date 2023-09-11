@@ -1,5 +1,9 @@
 <h1>Hi, I'm Judah! <br/> <a href="https://www.linkedin.com/in/judahmoskowitz/">Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  <h2> Certifications </h2>
+  
+  
+  <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
