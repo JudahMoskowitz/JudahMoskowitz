@@ -5,8 +5,8 @@
   
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Wireshark </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab </b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Nmap </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
