@@ -1,4 +1,4 @@
-<h1>Hi, I'm Judah! <br/> <a href="https://www.linkedin.com/in/judahmoskowitz/">Cybersecurity Professional</a>
+<h1>Hi, I'm Judah!
 
   <h2> Certifications </h2>
   
