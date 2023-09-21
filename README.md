@@ -13,6 +13,8 @@
 
 [linkedin]: https://www.linkedin.com/in/judahmoskowitz
 
+
+
 [<img align="left" alt="JudahMoskowitz| Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][Gmail]
 
-[Gmail]: [JudahMoskowitz](mailto:judah.moskowitz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Gmail]: mailto:judah.moskowitz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
